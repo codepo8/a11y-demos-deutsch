@@ -15,6 +15,8 @@
 * Darstellungsmodi
 * Zoommodus und Beste Nutzung des Bildschirms
 
+![](text-als-bild-1.png)
+
 ## Teststrategien für Entwickler
 
 * Browserentwicklerwerkzeuge
