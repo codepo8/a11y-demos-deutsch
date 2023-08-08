@@ -26,7 +26,7 @@
 ## Barrierefrei Entwickeln
 
 * Nutzen der Platform
-* Barrieren vermeiden und Platz lassen
+* Barrieren vermeiden
 * Alternativzugänge erlauben
 * Event Handling unabhängig von Eingabegeräten
 * Darstellungsmodi in CSS
